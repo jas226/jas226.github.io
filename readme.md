@@ -7,7 +7,7 @@ How to win:
 3. Prevent perpetuation of bias over time
 4. Provide proof-of-concept as a tool that supports broad use of AI algorithms
 
-[x] Register by Feb 15th
+- [x] Register by Feb 15th
 
 Code should be stored as two python scripts (.py files):
   “measure_disparity.py” takes in a set of model predictions and quantifies discrimination in model outcomes
@@ -65,27 +65,27 @@ Supporting documentation is required to be in PDF format and must not exceed 10 
   - How will your tool, next year or three years from now, improve health equity (fairness) and trust in AI/ML in healthcare settings? 
   - Are there other ways your tool can be used, perhaps in a research or government setting, to improve healthcare outcomes? or address other social inequities? 
 
-[]Setup Github for Submission
-  [x] GitHub Pages Site
-  [x] Script Components Visible on Site
-     [x] “measure_disparity.py” visible
-     [x] "mitigate_disparity.py" visible
-  [] Theme Components Visible
-  [] Supporting documentation visible
-[x] Webinar 1
-[x] Webinar 2
-[] Webinar 3
-[x] Formulate Project Topic/Healthcare Scenario
-[] view SOLAI's tool
-[] How will the tool be used?
-[] Collect Data
-[] Understand Data
-[] Create models
-[] Train models
-[] Test models
-[] Model Application 
-[] Build React App
-[] Cloud Run Configuration
-[] Disciplinary Research
-[] Submit
-[] Complete Challenge 
+- [ ]Setup Github for Submission
+-  [x] GitHub Pages Site
+-  [x] Script Components Visible on Site
+-      [x] “measure_disparity.py” visible
+-      [x] "mitigate_disparity.py" visible
+-  [ ] Theme Components Visible
+-   [ ] Supporting documentation visible
+- [x] Webinar 1
+- [x] Webinar 2
+- [ ] Webinar 3
+- [x] Formulate Project Topic/Healthcare Scenario
+- [ ] view SOLAI's tool
+- [ ] How will the tool be used?
+- [ ] Collect Data
+- [ ] Understand Data
+- [ ] Create models
+- [ ] Train models
+- [ ] Test models
+- [ ] Model Application 
+- [ ] Build React App
+- [ ] Cloud Run Configuration
+- [ ] Disciplinary Research
+- [ ] Submit
+- [ ] Complete Challenge 
