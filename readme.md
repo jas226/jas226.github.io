@@ -65,7 +65,7 @@ Supporting documentation is required to be in PDF format and must not exceed 10 
   - How will your tool, next year or three years from now, improve health equity (fairness) and trust in AI/ML in healthcare settings? 
   - Are there other ways your tool can be used, perhaps in a research or government setting, to improve healthcare outcomes? or address other social inequities? 
 
-- [ ]Setup Github for Submission
+- [x]Setup Github for Submission
 -  [x] GitHub Pages Site
 -  [x] Script Components Visible on Site
 -      [x] “measure_disparity.py” visible
@@ -74,18 +74,18 @@ Supporting documentation is required to be in PDF format and must not exceed 10 
 -   [ ] Supporting documentation visible
 - [x] Webinar 1
 - [x] Webinar 2
-- [ ] Webinar 3
+- [x] Webinar 3
 - [x] Formulate Project Topic/Healthcare Scenario
-- [ ] view SOLAI's tool
-- [ ] How will the tool be used?
-- [ ] Collect Data
-- [ ] Understand Data
+- [x] view SOLAI's tool
+- [x] How will the tool be used?
+- [x] Collect Data
+- [x] Understand Data
 - [ ] Create models
 - [ ] Train models
 - [ ] Test models
 - [ ] Model Application 
 - [ ] Build React App
 - [ ] Cloud Run Configuration
-- [ ] Disciplinary Research
+- [x] Disciplinary Research
 - [ ] Submit
 - [ ] Complete Challenge 
